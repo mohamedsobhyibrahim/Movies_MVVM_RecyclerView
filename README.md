@@ -9,6 +9,13 @@ View: It represents the UI of the application devoid of any Application Logic. I
 
 ViewModel: It acts as a link between the Model and the View. It’s responsible for transforming the data from the Model. It provides data streams to the View. It also uses hooks or callbacks to update the View. It’ll ask for the data from the Model.
 
+# Tools
+
+- ConstraintLayout
+- RecyclerView
+- CardView
+- DataBinding
+
 # Author
 
 Created by Mohamed Sobhy on 2020. Copyright © 2020 Mohamed Sobhy. [LinkedIn](https://www.linkedin.com/in/mohamed-sobhy-040958181/)
